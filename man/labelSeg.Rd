@@ -41,7 +41,7 @@ vector of numerical values between 1:23
 \author{
 Elizabeth Purdom}
 \seealso{
-\code{\link{hg19chromosomes}},\code{\link[IRanges:IntervalTree-class]{findOverlaps}}
+\code{\link{hg19chromosomes}},\code{\link[GenomicRanges:findOverlaps-methods]{findOverlaps}}
 }
 \examples{
 data(mutData)
