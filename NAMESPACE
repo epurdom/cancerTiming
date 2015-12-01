@@ -1,2 +1,7 @@
 exportPattern("^[^\\.]")
-import(LearnBayes, gplots)
+import("utils")
+import("stats")
+import("grDevices")
+import("graphics")
+importFrom("gplots","plotCI")
+import("LearnBayes")
