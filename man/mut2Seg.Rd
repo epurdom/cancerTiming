@@ -30,7 +30,7 @@ Elizabeth Purdom
 }
 
 \seealso{
-\code{\link[IRanges:IntervalTree-class]{findOverlaps}}
+\code{\link[GenomicRanges:findOverlaps-methods]{findOverlaps}}
 }
 \examples{
 if(require(GenomicRanges)){
